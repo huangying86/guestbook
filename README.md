@@ -7,12 +7,14 @@
 <li>修改</li>
 <li>删除</li>
 <li>分页</li>
-</ul> 
+</ul>
+
  
-##  用到的技术
-==========================
+## 用到的技术
+ 
+==============================
 <ul>
-  <li>php</li>
-  <li>smarty</li>
-  <li>bootstrap</li>
+<li>php</li>
+<li>smarty</li>
+<li>bootstrap</li>
 </ul> 
